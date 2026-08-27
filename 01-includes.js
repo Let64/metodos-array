@@ -14,7 +14,7 @@ console.log("Tem Uva?", frutas.includes("Uva")); // false (porque Uva não está
  if(frutas.includes("Banana")) {
     console.log("Tem Banana");
  } else {
-    console.log("Não tem Banana");
+    console.log("Não tem Banana!");
  }
 
  // Exemplo3 -- lista de alunos
